@@ -10,6 +10,7 @@ void Estuardo() {
 }
 
 void Steven() {
+	cout<<"Este es mi void"<<endl;
 
 }
 
